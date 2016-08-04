@@ -1,3 +1,3 @@
 # hello-world
-Tututorial
+Tutorial
 so how do you link this to Atom? Hello everyone. 
